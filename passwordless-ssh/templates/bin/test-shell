@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Test Shell v0.1.0"
+exit 0
